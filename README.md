@@ -43,4 +43,6 @@ I am currently pursuing my studies at Politécnico Jesús Marin, where I have ga
 ## 🤝 Connect with Me
 I am excited about collaboration and learning opportunities. I am always open to new connections and projects. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nxessan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelia-seg-san/) [![GitHub](https://img.shields.io/badge/GitHub-nxessan-181717?style=flat&logo=github&logoColor=white)](https://github.com/nxessan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nxessan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelia-seg-san/) 
+
+[![GitHub](https://img.shields.io/badge/GitHub-nxessan-181717?style=flat&logo=github&logoColor=white)](https://github.com/nxessan)
