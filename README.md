@@ -28,11 +28,12 @@ I am currently pursuing my studies at Politécnico Jesús Marin, where I have ga
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Husky](https://img.shields.io/badge/Husky-FF4081?style=flat&logo=husky&logoColor=white) ![Commitlint](https://img.shields.io/badge/Commitlint-854DFF?style=flat&logo=commitlint&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
+<!--
 ## 📊 Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nxessan&show_icons=true&theme=midnight-purple" alt="Noelia's GitHub stats">
 </p>
+-->
 
 ## 🏆 GitHub Profile Trophy
 <div align="center">
