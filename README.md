@@ -31,7 +31,7 @@ I am currently pursuing my studies at Politécnico Jesús Marin, where I have ga
 
 ## 📊 Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nxessan&rank_icon=github&show_icons=true&theme=shades-of-purple" alt="Noelia's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=nxessan&rank_icon=github&show_icons=true&theme=radical" alt="Noelia's GitHub stats">
 </p>
 
 ## 🏆 GitHub Profile Trophy
