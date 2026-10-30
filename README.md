@@ -29,16 +29,6 @@ I am currently pursuing my studies at Politécnico Jesús Marin, where I have ga
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Husky](https://img.shields.io/badge/Husky-FF4081?style=flat&logo=husky&logoColor=white) ![Commitlint](https://img.shields.io/badge/Commitlint-854DFF?style=flat&logo=commitlint&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) 
 
-## 📊 Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nxessan&rank_icon=github&show_icons=true&theme=radical" alt="Noelia's GitHub stats">
-</p>
-
-## 🏆 GitHub Profile Trophy
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nxessan&theme=radical&column=4&margin-w=18&margin-h=15" alt="GitHub Trophy">
-</div>
-
 
 ## 🤝 Connect with Me
 I am excited about collaboration and learning opportunities. I am always open to new connections and projects. Feel free to reach out!
