@@ -29,10 +29,3 @@ I am currently pursuing my studies at Politécnico Jesús Marin, where I have ga
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Husky](https://img.shields.io/badge/Husky-FF4081?style=flat&logo=husky&logoColor=white) ![Commitlint](https://img.shields.io/badge/Commitlint-854DFF?style=flat&logo=commitlint&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) 
 
-
-## 🤝 Connect with Me
-I am excited about collaboration and learning opportunities. I am always open to new connections and projects. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nxessan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelia-seg-san/) 
-
-[![GitHub](https://img.shields.io/badge/GitHub-nxessan-181717?style=flat&logo=github&logoColor=white)](https://github.com/nxessan)
